@@ -11,6 +11,7 @@ Bei statischen Bots dürfte das dann schon 100% bzw. 0 %. Sobald man dynamische 
 die zumindest teilweise zufällig bieten, wird es aber schon interessant wie oft einer gewinnt.
 
 ## Statisch und Dynamisch Bots
+
 Als statische Bots würde ich solche bezeichnen, die unabhängig vom Bieter-Verhalten des anderes Bots bieten.
 Darunter fallen AveragerBidder, FixedBidder, RandomBidder. Die anderen Bots reagieren quasi auf das letzte Gebot des anderen Bots. 
 Ich denke der beste Bot den man implementieren kann, errät die Strategie des anderen und bietet dann +1.
