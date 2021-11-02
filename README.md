@@ -20,7 +20,8 @@ Verlieren möglichst 0. Das ist ja logisch :-)
 
 
 Ich hätte jetzt noch ein paar Ideen für andere Bots die gut sein könnten (HackyBot, CleverRandomBot) und vielleicht
-einer der ansatzweise die Strategie des Gegners erraten kann. Das übersteigt aber den Zeitrahmen. Besonders den HackyBidder hätte ich noch gerne implementiert.VIelleicht kann man in der Zukunft die Auction-Klasse gleich mitliefern,
+einer der ansatzweise die Strategie des Gegners erraten kann. Das übersteigt aber den Zeitrahmen. Besonders den HackyBidder hätte ich noch gerne implementiert um zu schauen ob eure Implementierung der Auktion das abfängt. Ich vermute schon ^_^ 
+Vielleicht kann man in der Zukunft die Auction-Klasse gleich mitliefern,
 dann muss die ein Bewerber nicht selber schreiben :-)
 
 ## Junit Tests
