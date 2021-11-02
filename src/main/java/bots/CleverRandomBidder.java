@@ -8,4 +8,6 @@ public class CleverRandomBidder  {
      * Bids are calculated pairwise and a pair always sums up to a multiple of the average value of a quantity unit
      */
 
+    //Not yet implemented :-)
+
 }
