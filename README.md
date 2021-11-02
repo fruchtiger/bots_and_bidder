@@ -14,9 +14,9 @@ die zumindest teilweise zufällig bieten, wird es aber schon interessant wie oft
 
 Als statische Bots würde ich solche bezeichnen, die unabhängig vom Bieter-Verhalten des anderes Bots bieten.
 Darunter fallen AveragerBidder, FixedBidder, RandomBidder. Die anderen Bots reagieren quasi auf das letzte Gebot des anderen Bots. 
-Ich denke der beste Bot den man implementieren kann, errät die Strategie des anderen und bietet dann +1.
+Ich denke der beste Bot den man implementieren kann, errät die Strategie des anderen und bietet dann +1 bzw.0.
 Prinzipiell muss ein guter Bot wenn er gewinnen möchte, beim Gewinnen der Menge möglichst +1 mehr bieten und beim
-Verlieren möglichst 0. Das ist logisch :-)
+Verlieren möglichst 0. Das ist ja logisch :-)
 
 
 Ich hätte jetzt noch ein paar Ideen für andere Bots die gut sein könnten (HackyBot, CleverRandomBot) und vielleicht
